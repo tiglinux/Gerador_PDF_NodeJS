@@ -4,6 +4,9 @@ Gerador de Arquivo PDF usando .JSON para trazer dados de API e mostrar no PDF ut
 Objetivo : A idéia é gerar 400 QRCODES dinamicamente.
 
 
+![2020-08-07_10-10](https://user-images.githubusercontent.com/8001737/89648881-4c98d580-d896-11ea-9aba-c013a7d518c1.png)
+
+
 
 
 Cada QRCODE é um valor diferente , pois está puxado direto da api Rest JSON.
